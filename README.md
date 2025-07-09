@@ -8,7 +8,6 @@ The project includes modules for working with pitch (F0), formants, MFCCs, and v
 ## Repository Structure
 
 <pre>
-```
 2025thesisdemo
 ├── regression/
 │   ├── f0_sr.py
@@ -42,7 +41,6 @@ The project includes modules for working with pitch (F0), formants, MFCCs, and v
 │   ├── fiplot.png
 │
 └── README.md
-```
 </pre>
 
 ## Usage Instruction
