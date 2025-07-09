@@ -78,14 +78,14 @@ python3 'name of the python script you want to use'
   - Manual editing of root is required.
 
 Example of heatmap:
-![alt text]( "Heatmap of Formants of Simple linear regression")
+![Heatmap of Formants of Simple linear regression](blob/main/image/heatmap.png)
 
 Example of feature importance score plot:
-![alt text]( "Formants feature importance score plot of Random forest regression")
+![Formants feature importance score plot of Random forest regression](blob/main/image/fiplot.png)
 
 6. Statistical Analysis
   - stat_example.py is provided as a sample script that use all performs Friedman test and generate a boxplot.
-![alt text]( "Boxplot of Simple Linear Regression Comparison")
+![Boxplot of Simple Linear Regression Comparison](blob/main/image/boxplot.png)
 
 ## License
 This project is licensed under the MIT License.
