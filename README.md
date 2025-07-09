@@ -39,6 +39,7 @@ The project includes modules for working with pitch (F0), formants, MFCCs, and v
 ├── image/
 │   ├── heatmap.png
 │   ├── fiplot.png
+│   ├── boxplot.png
 │
 └── README.md
 </pre>
