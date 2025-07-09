@@ -48,6 +48,7 @@ The project includes modules for working with pitch (F0), formants, MFCCs, and v
 ```bash
 wget https://data.deepai.org/timit.zip
 unzip timit.zip -d 'path to timit data folder'
+```
 
 2. Preprocessing
 ⋅⋅⋅⋅* Download all the Python scripts, adjust the root directory of TIMIT dataset accordingly.
@@ -59,6 +60,7 @@ unzip timit.zip -d 'path to timit data folder'
 
 ```bash
 python3 'name of the python script you want to use'
+```
 
 3. Feature Extraction
 ⋅⋅⋅⋅* F0 and formants are extracted using [Praat](https://www.fon.hum.uva.nl/praat/). Download the praat script files, choose Praat > Open Praat script, update the input and output path. Each .WAV file will generate a .csv file, modifying is recommended to eliminate manual files arrangement. Note: Praat cannot process more than 10,000 files at once, manual file batching is recommended.
